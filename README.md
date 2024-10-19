@@ -23,8 +23,8 @@ This project implements a Rule Engine using Abstract Syntax Trees (AST) to evalu
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
-    cd rule-engine-ast
+    git clone https://github.com/rajikakarlapudi/Rules-Engine
+    cd Rules-Engine
     ```
 
 2. Open `index.html` in a web browser.
